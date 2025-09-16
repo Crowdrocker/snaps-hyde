@@ -1,27 +1,20 @@
 <div align = center>
   
-<a href="https://discord.gg/AYbJ9MJez7">
-    <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FmT5YqjaJFh%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoSize=auto&label=The%20HyDe%20Project&labelColor=ebbcba&color=c79bf0">
-  </a>
-</div>
+<a href="https://discord.gg/9bAVTCNZ">
+    <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2Fyour-invite-code%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoSize=auto&label=WehttamSnaps%20Community&labelColor=ebbcba&color=8A2BE2">
+</a>
 
 ###### _<div align="right"><a id=-design-by-t2></a><sub>// design by t2</sub></div>_
 
 ![hyde_banner](Source/assets/hyde_banner.png)
 
-<!--
-Multi-language README support
--->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](Source/docs/README.es.md)
-[![de](https://img.shields.io/badge/lang-de-black.svg)](Source/docs/README.de.md)
-[![nl](https://img.shields.io/badge/lang-nl-green.svg)](Source/docs/README.nl.md)
-[![中文](https://img.shields.io/badge/lang-中文-orange.svg)](Source/docs/README.zh.md)
-[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](Source/docs/README.fr.md)
-[![ar](https://img.shields.io/badge/lang-AR-orange.svg)](Source/docs/README.ar.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-006400.svg)](Source/docs/README.pt-br.md)
+<div align="center">
+  
+[![Twitch](https://img.shields.io/badge/Twitch-WehttamSnaps-9146FF?style=for-the-badge&logo=twitch)](https://www.twitch.tv/wehttamsnaps)
+[![YouTube](https://img.shields.io/badge/YouTube-WehttamSnaps-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@WehttamSnaps)
+[![GitHub](https://img.shields.io/badge/GitHub-Crowdrocker-181717?style=for-the-badge&logo=github)](https://github.com/Crowdrocker)
+
+</div>
 
 <div align="center">
 
@@ -106,7 +99,7 @@ View installation instructions for HyDE in [Hyde-cli - Usage](https://github.com
 -->
 
 Please reboot after the install script completes and takes you to the SDDM login screen (or black screen) for the first time.
-For more details, please refer to the [installation wiki](https://github.com/HyDE-Project/HyDE/wiki/installation).
+For more details, please refer to the [installation wiki](https://github.com/snaps-hyde/HyDE/wiki/installation).
 
 <div align="right">
   <br>
@@ -177,7 +170,7 @@ HyDEVM is a script that allows you to run HyDE in a virtual machine for testing 
 
 ```bash
 # Download and run (will auto-detect missing packages)
-curl -L https://raw.githubusercontent.com/HyDE-Project/HyDE/main/Scripts/hydevm/hydevm.sh -o hydevm
+curl -L https://raw.githubusercontent.com/snaps-hyde/HyDE/main/Scripts/hydevm/hydevm.sh -o hydevm
 chmod +x hydevm
 ./hydevm
 ```
@@ -242,43 +235,43 @@ For more information, visit [HyDE-Project/hyde-themes](https://github.com/HyDE-P
 ---
 
 <div align="center"><table><tr>Theme Select</tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/theme_select_1.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/theme_select_2.png"/></td></tr></table></div>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/theme_select_1.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/theme_select_2.png"/></td></tr></table></div>
 
 <div align="center"><table><tr><td>Wallpaper Select</td><td>Launcher Select</td></tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/walls_select.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_sel.png"/></td></tr>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/walls_select.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_sel.png"/></td></tr>
 <tr><td>Wallbash Modes</td><td>Notification Action</td></tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/wb_mode_sel.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/notif_action_sel.png"/></td></tr>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/wb_mode_sel.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/notif_action_sel.png"/></td></tr>
 </table></div>
 
 <div align="center"><table><tr>Rofi Launcher</tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_1.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_2.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_3.png"/></td></tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_4.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_5.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_6.png"/></td></tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_7.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_8.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_9.png"/></td></tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_10.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_11.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/rofi_style_12.png"/></td></tr>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_1.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_2.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_3.png"/></td></tr><tr><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_4.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_5.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_6.png"/></td></tr><tr><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_7.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_8.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_9.png"/></td></tr><tr><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_10.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_11.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/rofi_style_12.png"/></td></tr>
 </table></div>
 
 <div align="center"><table><tr>Wlogout Menu</tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/wlog_style_1.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/wlog_style_2.png"/></td></tr></table></div>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/wlog_style_1.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/wlog_style_2.png"/></td></tr></table></div>
 
 <div align="center"><table><tr>Game Launcher</tr><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/game_launch_1.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/game_launch_2.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/game_launch_3.png"/></td></tr></table></div>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/game_launch_1.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/game_launch_2.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/game_launch_3.png"/></td></tr></table></div>
 <div align="center"><table><tr><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/game_launch_4.png"/></td><td>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/game_launch_5.png"/></td></tr></table></div>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/game_launch_4.png"/></td><td>
+<img src="https://github.com/Crowdrocker/snaps-hyde/blob/master/Source/assets/game_launch_5.png"/></td></tr></table></div>
 
 
 
