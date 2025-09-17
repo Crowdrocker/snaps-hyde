@@ -2,7 +2,7 @@
 
 All notable changes to `HyDE` will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to _Modified_ [CalVer](https://calver.org/). See [Versioning](https://github.com/HyDE-Project/HyDE/blob/master/RELEASE_POLICY.md#versioning-yymq) For more info
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to _Modified_ [CalVer](https://calver.org/). See [Versioning](https://github.com/Crowdrocker/snaps-hyde/blob/master/RELEASE_POLICY.md#versioning-yymq) For more info
 
 ## v25.9.1
 
@@ -32,7 +32,7 @@ gesture = 3, vertical, workspace
 ### Fixed
 
 - Typos,spelling and and cleanup
-- Dunst: Fix dunst crashing when the font cannot handle unsupported characters -- Thanks to [#1131](https://github.com/HyDE-Project/HyDE/issues/1131)
+- Dunst: Fix dunst crashing when the font cannot handle unsupported characters -- Thanks to [#1131](https://github.com/Crowdrocker/snaps-hyde/issues/1131)
 - UWSM: Clean up the xdg freedesktop.org spec as uwsm handles it
 - Wallpaper: fix #1136 as exporting arrays are not supported in bash
 - Lockscreen: Fix zombie hyprlock
@@ -52,7 +52,7 @@ gesture = 3, vertical, workspace
 - hyde-shell: Add 'logout' command to handle with/out uwsm
 - waybar: Add lighter temperature module (Needs manual setup)
 - Add credits page
-- waybar: Try to force initialization on restore (redundancy) might fix [#1160](https://github.com/HyDE-Project/HyDE/issues/1160)
+- waybar: Try to force initialization on restore (redundancy) might fix [#1160](https://github.com/Crowdrocker/snaps-hyde/issues/1160)
 - Added pyprland boilerplate, no configs for now
 - Hyprland: Graciously handle some of the issues hyprland config issues for unknown SHELL
 - Pyprland: Use nc or socat to communicate with pyprland instead of pure python
