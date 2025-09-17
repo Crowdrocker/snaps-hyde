@@ -94,8 +94,8 @@ To install, execute the following commands:
 
 ```shell
 pacman -S --needed git base-devel
-git clone --depth 1 https://github.com/Crowdrocker/snaps-hyde.git ~/HyDE
-cd ~/HyDE/Scripts
+git clone --depth 1 https://github.com/Crowdrocker/snaps-hyde.git ~/snaps-hyde
+cd ~/snaps-hyde/Scripts
 ./install.sh
 ```
 
