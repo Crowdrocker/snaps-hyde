@@ -4,9 +4,17 @@
     <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2Fyour-invite-code%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoSize=auto&label=WehttamSnaps%20Community&labelColor=ebbcba&color=8A2BE2">
 </a>
 
-###### _<div align="right"><a id=-design-by-t2></a><sub>// design by t2</sub></div>_
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="400" />
+</p>
 
-![hyde_banner](Source/assets/hyde_banner.png)
+<h3 align="center">
+<img align="center" width="80%" src=https://raw.githubusercontent.com/Crowdrocker/Snaps-Dots/main/assets/github-header.png />
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="400" />
+</p>
 
 <div align="center">
   
@@ -16,9 +24,19 @@
 
 </div>
 
+</div><br>
+
 <div align="center">
 
-<br>
+![GitHub Repo stars](https://img.shields.io/github/stars/Crowdrocker/snaps-hyde?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/Crowdrocker/snaps-hyde?style=for-the-badge&color=b4befe) 
+<br/>
+</div>
+
+<h3 align="center">
+  <img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+  Complete Hyprland Setup with J.A.R.V.I.S. Theme
+  <img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+</h3>
 
 <a href="#installation"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
 <a href="#updating"><kbd> <br> Updating <br> </kbd></a>&ensp;&ensp;
